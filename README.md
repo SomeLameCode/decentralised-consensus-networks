@@ -80,3 +80,7 @@ the rest.
   relationship between D and convergence speed, and a high-dimensional
   "Pareto point" (D≈150) balancing collective consensus against residual
   belief diversity, robust across seeds (Phase 3).
+
+## License
+
+[MIT](LICENSE)
