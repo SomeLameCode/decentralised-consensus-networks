@@ -41,13 +41,16 @@ module and no required run order between them.
 
 ## Running a simulation
 
-Install the dependencies actually imported across the scripts (there's no
-package manifest — this is a research codebase, not a distributable
-package):
+Install dependencies from `requirements.txt`:
 
 ```
-pip install numpy networkx matplotlib scipy
+pip install -r requirements.txt
 ```
+
+`requirements.txt` covers `numpy`, `networkx`, and `matplotlib`. One script,
+`phase-1/sim_v6-n10k-sparse/sim_v6.py`, also imports `scipy.sparse` for its
+large-N sparse implementation — install `scipy` separately if you plan to
+run that specific script.
 
 Then run any script directly with Python 3, from anywhere:
 
