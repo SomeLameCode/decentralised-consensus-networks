@@ -1,0 +1,7 @@
+scope,topic,entropy_t0,entropy_t500,t_conv,ever_sme,ever_sme_pct,target_met,top1_node,top1_frac,top2_node,top2_frac,top3_node,top3_frac,post_conv_new_sme,post_conv_pct,community_mean,community_mean_pct,community_min,community_min_pct,community_max,community_max_pct,community_n_full
+overall,Topic 1,2.3024,0.0027,16,9998,99.98,PASS,6979,0.4212,4718,0.3653,3858,0.3553,8133,81.33,NA,NA,NA,NA,NA,NA,NA
+overall,Topic 2,2.3024,0.0035,16,9997,99.97,PASS,4307,0.3433,8204,0.3273,670,0.3273,8136,81.36,NA,NA,NA,NA,NA,NA,NA
+overall,Topic 3,2.3024,0.0043,16,9996,99.96,PASS,5236,0.3353,7179,0.3333,3308,0.3273,8145,81.45,NA,NA,NA,NA,NA,NA,NA
+community_summary,Topic 1,NA,NA,16,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,20.00,99.98,19,95.00,20,100.00,498
+community_summary,Topic 2,NA,NA,16,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,19.99,99.97,19,95.00,20,100.00,497
+community_summary,Topic 3,NA,NA,16,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,19.99,99.96,19,95.00,20,100.00,496

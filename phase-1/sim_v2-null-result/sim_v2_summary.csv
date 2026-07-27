@@ -1,0 +1,4 @@
+topic,entropy_t0,entropy_t200,ever_sme,top1_node,top1_frac,top2_node,top2_frac,top3_node,top3_frac
+Topic 1,2.0721,-0.0000,28,16,0.3234,13,0.2935,1,0.1990
+Topic 2,2.2003,-0.0000,29,15,0.1940,26,0.1791,13,0.1791
+Topic 3,2.2201,-0.0000,29,8,0.2637,13,0.2587,22,0.1791

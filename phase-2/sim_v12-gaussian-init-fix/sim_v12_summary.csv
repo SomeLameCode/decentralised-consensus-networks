@@ -1,0 +1,4 @@
+topic,cosim_t0,cosim_t200,t_conv,ever_sme,top1_node,top1_frac,top2_node,top2_frac,top3_node,top3_frac,post_conv_new_sme,post_conv_pct
+Topic 1,-0.0224,0.0354,NA,16,7,0.6716,28,0.4129,8,0.3632,NA,NA
+Topic 2,-0.0210,0.0226,NA,18,19,0.6468,20,0.3234,21,0.2886,NA,NA
+Topic 3,-0.0042,0.0365,NA,20,2,0.5522,16,0.4975,29,0.3930,NA,NA
